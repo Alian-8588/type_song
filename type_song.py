@@ -1,4 +1,4 @@
-# problem 1
+# problem
 song_line = input ("type the first line of your favourite song")
 
 length_line = len(song_line)
